@@ -1,0 +1,5 @@
+com\kodnito\gamestore1\service\GameService.class
+com\kodnito\gamestore1\rest\HelloWorldEndpoint.class
+com\kodnito\gamestore1\entity\Games.class
+com\kodnito\gamestore1\rest\GamesStoreEndpoint.class
+com\kodnito\gamestore1\rest\ApplicationConfig.class
